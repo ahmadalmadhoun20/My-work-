@@ -282,7 +282,7 @@ footer p {
     opacity: .9
 }
 
-@media (max-width: 600px)  {
+@media (max-width: 676px)  {
     .about {
         /* margin-top: 250px; */
         margin-bottom: 100px;
